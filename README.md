@@ -1,2 +1,3 @@
-# stockholm-DSV-nod
-Courses and archives from 2018 
+#Stockolm University courses 
+
+Some courses done at NOD
