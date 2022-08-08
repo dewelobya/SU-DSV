@@ -1,3 +1,3 @@
-#Stockolm University courses 
+***Stockolm University courses***
 
 Some courses done at NOD
